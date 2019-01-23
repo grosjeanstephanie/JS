@@ -1,0 +1,16 @@
+const readlineSync = require("readline-sync");
+var a = readlineSync.question("10 What is your firstname? " );
+var b = readlineSync.question("9 What is your name? " );
+var c = readlineSync.question("8 How old are you? " );
+var d = readlineSync.question("7 What is tour birth date? " );
+var e = readlineSync.question("6 Do you like coding? " );
+var f = readlineSync.question("5 Where do you live? " );
+var g = readlineSync.question("4 What is your passion? " );
+var h = readlineSync.question("3 Are you single? " );
+var i = readlineSync.question("2 What is your favourite langage? " );
+var j = readlineSync.question("1 How did you hear about Becode? " );
+console.log("Hello my name is " + a + " " + b );
+console.log("I'm " + c + " years old my birthday is " + d);
+console.log("Yes, I doing " + e + "I'm live in " + f );
+console.log("my passions are " + g + " no! " + h );
+console.log( " My langage favourite is " + i + "At the watch TV " + j);
