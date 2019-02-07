@@ -12,5 +12,5 @@ var j = readlineSync.question("1 How did you hear about Becode? " );
 console.log("Hello my name is " + a + " " + b );
 console.log("I'm " + c + " years old my birthday is " + d);
 console.log("Yes, I doing " + e + "I'm live in " + f );
-console.log("my passions are " + g + " no! " + h );
-console.log( " My langage favourite is " + i + "At the watch TV " + j);
+console.log("my passions are " + g + ". Am I single? " + h );
+console.log( "My langage favourite is " + i + " At the watch TV " + j);

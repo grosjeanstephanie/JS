@@ -1,0 +1,34 @@
+
+/*
+  Import the common theme.
+*/
+@import "./_shared/scss/theme.scss";
+
+/*
+  If you need some CSS for any reason you can put it here.
+*/
+
+
+
+form{
+  border-style: solid;
+  border-width: 2px;
+  margin-left: 50px;
+}
+
+#Text1 #Text2 #Text3 {
+  margin-bottom: 50px;
+}
+
+#Sent #Reset {
+  /*margin-bottom: 50px;*/
+  text-align: center;
+}
+
+.button{
+  text-align: center;
+}
+
+#Text{
+  
+}
